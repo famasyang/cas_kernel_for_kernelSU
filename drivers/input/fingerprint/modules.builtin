@@ -1,0 +1,3 @@
+kernel/drivers/input/fingerprint/goodix_fod/gf_spi.ko
+kernel/drivers/input/fingerprint/goodix_fod/platform.ko
+kernel/drivers/input/fingerprint/goodix_fod/netlink.ko

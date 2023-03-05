@@ -1,0 +1,1 @@
+cmd_drivers/iio/buffer/built-in.a :=  rm -f drivers/iio/buffer/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/iio/buffer/built-in.a drivers/iio/buffer/industrialio-buffer-cb.o drivers/iio/buffer/industrialio-triggered-buffer.o drivers/iio/buffer/kfifo_buf.o

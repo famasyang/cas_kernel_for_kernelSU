@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/cros-ec-cec/built-in.a :=  rm -f drivers/media/platform/cros-ec-cec/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/media/platform/cros-ec-cec/built-in.a 

@@ -1,0 +1,1 @@
+cmd_kernel/events/built-in.a :=  rm -f kernel/events/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD kernel/events/built-in.a kernel/events/core.o kernel/events/ring_buffer.o kernel/events/callchain.o kernel/events/hw_breakpoint.o kernel/events/uprobes.o

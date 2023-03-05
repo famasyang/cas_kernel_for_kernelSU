@@ -1,0 +1,1 @@
+cmd_drivers/char/hw_random/built-in.a :=  rm -f drivers/char/hw_random/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/char/hw_random/built-in.a drivers/char/hw_random/core.o drivers/char/hw_random/msm_rng.o drivers/char/hw_random/cavium-rng.o drivers/char/hw_random/cavium-rng-vf.o

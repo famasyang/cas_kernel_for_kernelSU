@@ -1,0 +1,77 @@
+!<thin>
+//                                              602       `
+kgsl.o/
+kgsl_trace.o/
+kgsl_drawobj.o/
+kgsl_ioctl.o/
+kgsl_sharedmem.o/
+kgsl_pwrctrl.o/
+kgsl_pwrscale.o/
+kgsl_mmu.o/
+kgsl_snapshot.o/
+kgsl_events.o/
+kgsl_gmu_core.o/
+kgsl_gmu.o/
+kgsl_rgmu.o/
+kgsl_hfi.o/
+kgsl_pool.o/
+kgsl_reclaim.o/
+kgsl_timeline.o/
+kgsl_iommu.o/
+kgsl_sync.o/
+kgsl_compat.o/
+adreno_ioctl.o/
+adreno_ringbuffer.o/
+adreno_drawctxt.o/
+adreno_dispatch.o/
+adreno_snapshot.o/
+adreno_trace.o/
+adreno_a6xx.o/
+adreno_a6xx_snapshot.o/
+adreno_a6xx_preempt.o/
+adreno_a6xx_gmu.o/
+adreno_a6xx_rgmu.o/
+adreno_sysfs.o/
+adreno.o/
+adreno_cp_parser.o/
+adreno_perfcounter.o/
+adreno_iommu.o/
+adreno_compat.o/
+
+/0              0           0     0     644     1058560   `
+/8              0           0     0     644     1085656   `
+/22             0           0     0     644     424336    `
+/38             0           0     0     644     193256    `
+/52             0           0     0     644     443376    `
+/70             0           0     0     644     610656    `
+/86             0           0     0     644     312472    `
+/103            0           0     0     644     300208    `
+/115            0           0     0     644     312824    `
+/132            0           0     0     644     279208    `
+/147            0           0     0     644     241664    `
+/164            0           0     0     644     355968    `
+/176            0           0     0     644     234608    `
+/189            0           0     0     644     280848    `
+/201            0           0     0     644     305640    `
+/214            0           0     0     644     300456    `
+/230            0           0     0     644     327848    `
+/247            0           0     0     644     480080    `
+/261            0           0     0     644     327184    `
+/274            0           0     0     644     210072    `
+/289            0           0     0     644     224896    `
+/305            0           0     0     644     303624    `
+/326            0           0     0     644     297720    `
+/345            0           0     0     644     583544    `
+/364            0           0     0     644     307344    `
+/383            0           0     0     644     589384    `
+/399            0           0     0     644     487424    `
+/414            0           0     0     644     359464    `
+/438            0           0     0     644     299224    `
+/461            0           0     0     644     386568    `
+/480            0           0     0     644     258048    `
+/500            0           0     0     644     263464    `
+/516            0           0     0     644     770664    `
+/526            0           0     0     644     235384    `
+/546            0           0     0     644     302656    `
+/568            0           0     0     644     232928    `
+/584            0           0     0     644     221752    `

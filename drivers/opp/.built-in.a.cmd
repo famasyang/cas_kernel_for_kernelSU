@@ -1,0 +1,1 @@
+cmd_drivers/opp/built-in.a :=  rm -f drivers/opp/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/opp/built-in.a drivers/opp/core.o drivers/opp/cpu.o drivers/opp/of.o

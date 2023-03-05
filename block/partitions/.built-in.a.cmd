@@ -1,0 +1,1 @@
+cmd_block/partitions/built-in.a :=  rm -f block/partitions/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD block/partitions/built-in.a block/partitions/check.o block/partitions/msdos.o block/partitions/efi.o

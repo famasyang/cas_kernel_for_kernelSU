@@ -1,0 +1,1 @@
+cmd_drivers/reset/built-in.a :=  rm -f drivers/reset/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/reset/built-in.a drivers/reset/core.o drivers/reset/hisilicon/built-in.a

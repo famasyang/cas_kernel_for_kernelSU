@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/built-in.a :=  rm -f drivers/net/wireless/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/net/wireless/built-in.a drivers/net/wireless/cnss2/built-in.a drivers/net/wireless/cnss_utils/built-in.a drivers/net/wireless/cnss_prealloc/built-in.a drivers/net/wireless/cnss_genl/built-in.a

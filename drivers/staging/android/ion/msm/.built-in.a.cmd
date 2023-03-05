@@ -1,0 +1,1 @@
+cmd_drivers/staging/android/ion/msm/built-in.a :=  rm -f drivers/staging/android/ion/msm/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/staging/android/ion/msm/built-in.a drivers/staging/android/ion/msm/msm_ion_of.o

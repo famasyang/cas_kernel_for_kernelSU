@@ -1,0 +1,84 @@
+!<thin>
+//                                              844       `
+wcd938x/wcd938x.o/
+wcd938x/wcd938x-regmap.o/
+wcd938x/wcd938x-tables.o/
+wcd938x/wcd938x-mbhc.o/
+wcd938x/wcd938x-slave.o/
+bolero/bolero-cdc.o/
+bolero/bolero-cdc-utils.o/
+bolero/bolero-cdc-regmap.o/
+bolero/bolero-cdc-tables.o/
+bolero/bolero-clk-rsc.o/
+bolero/wsa-macro.o/
+bolero/va-macro.o/
+bolero/tx-macro.o/
+bolero/rx-macro.o/
+cs35l41/cs35l41.o/
+cs35l41/cs35l41-i2c.o/
+cs35l41/cs35l41-tables.o/
+cs35l41/wm_adsp.o/
+cs35l41/send_data_to_xlog.o/
+tfa98xx/src/tfa98xx.o/
+tfa98xx/src/tfa_container.o/
+tfa98xx/src/tfa_dsp.o/
+tfa98xx/src/tfa_init.o/
+wcd9xxx-core-init.o/
+msm-cdc-pinctrl.o/
+msm-cdc-supply.o/
+wcd-irq.o/
+wcd-clsh.o/
+wcdcal-hwdep.o/
+wcd9xxx-soc-init.o/
+wcd-dsp-utils.o/
+wcd-dsp-mgr.o/
+audio-ext-clk-up.o/
+wsa881x.o/
+wsa881x-tables.o/
+wsa881x-regmap.o/
+wsa881x-temp-sensor.o/
+msm_stub.o/
+wcd-mbhc-v2.o/
+wcd-mbhc-adc.o/
+msm_hdmi_codec_rx.o/
+/0              0           0     0     644     577408    `
+/19             0           0     0     644     53208     `
+/45             0           0     0     644     5376      `
+/71             0           0     0     644     335904    `
+/95             0           0     0     644     74896     `
+/120            0           0     0     644     366360    `
+/141            0           0     0     644     225056    `
+/168            0           0     0     644     219384    `
+/196            0           0     0     644     17184     `
+/224            0           0     0     644     224240    `
+/249            0           0     0     644     483152    `
+/269            0           0     0     644     531000    `
+/288            0           0     0     644     566752    `
+/307            0           0     0     644     587472    `
+/326            0           0     0     644     404088    `
+/345            0           0     0     644     248416    `
+/368            0           0     0     644     18616     `
+/394            0           0     0     644     665712    `
+/413            0           0     0     644     6752      `
+/442            0           0     0     644     620824    `
+/465            0           0     0     644     208792    `
+/494            0           0     0     644     446840    `
+/517            0           0     0     644     228088    `
+/541            0           0     0     644     123176    `
+/562            0           0     0     644     191776    `
+/581            0           0     0     644     167544    `
+/599            0           0     0     644     117368    `
+/610            0           0     0     644     258232    `
+/622            0           0     0     644     243424    `
+/638            0           0     0     644     15656     `
+/658            0           0     0     644     66120     `
+/675            0           0     0     644     244528    `
+/690            0           0     0     644     206072    `
+/710            0           0     0     644     377832    `
+/721            0           0     0     644     24032     `
+/739            0           0     0     644     147848    `
+/757            0           0     0     644     277392    `
+/780            0           0     0     644     216520    `
+/792            0           0     0     644     427200    `
+/807            0           0     0     644     316664    `
+/823            0           0     0     644     273552    `

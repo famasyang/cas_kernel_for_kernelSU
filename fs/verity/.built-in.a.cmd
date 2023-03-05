@@ -1,0 +1,1 @@
+cmd_fs/verity/built-in.a :=  rm -f fs/verity/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD fs/verity/built-in.a fs/verity/enable.o fs/verity/hash_algs.o fs/verity/init.o fs/verity/measure.o fs/verity/open.o fs/verity/read_metadata.o fs/verity/verify.o fs/verity/signature.o

@@ -1,0 +1,42 @@
+!<thin>
+//                                              408       `
+hdmi.o/
+logo/logo.o/
+backlight/backlight.o/
+backlight/qcom-spmi-wled.o/
+fbdev/core/fb_cmdline.o/
+fbdev/core/fb_notify.o/
+fbdev/core/fbmem.o/
+fbdev/core/fbmon.o/
+fbdev/core/fbcmap.o/
+fbdev/core/fbsysfs.o/
+fbdev/core/modedb.o/
+fbdev/core/fbcvt.o/
+fbdev/core/cfbfillrect.o/
+fbdev/core/cfbcopyarea.o/
+fbdev/core/cfbimgblt.o/
+fbdev/amba-clcd.o/
+display_timing.o/
+videomode.o/
+of_display_timing.o/
+of_videomode.o/
+/0              0           0     0     644     117576    `
+/8              0           0     0     644     37776     `
+/21             0           0     0     644     265968    `
+/44             0           0     0     644     365560    `
+/72             0           0     0     644     18872     `
+/97             0           0     0     644     148680    `
+/121            0           0     0     644     541888    `
+/141            0           0     0     644     248792    `
+/161            0           0     0     644     221424    `
+/182            0           0     0     644     215144    `
+/204            0           0     0     644     227032    `
+/225            0           0     0     644     26512     `
+/245            0           0     0     644     207888    `
+/271            0           0     0     644     220272    `
+/297            0           0     0     644     177440    `
+/321            0           0     0     644     263744    `
+/340            0           0     0     644     14416     `
+/358            0           0     0     644     11336     `
+/371            0           0     0     644     54736     `
+/392            0           0     0     644     33720     `

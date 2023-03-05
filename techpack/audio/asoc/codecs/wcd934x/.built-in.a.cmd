@@ -1,0 +1,1 @@
+cmd_techpack/audio/asoc/codecs/wcd934x/built-in.a :=  rm -f techpack/audio/asoc/codecs/wcd934x/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD techpack/audio/asoc/codecs/wcd934x/built-in.a 

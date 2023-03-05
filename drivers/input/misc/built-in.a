@@ -1,0 +1,11 @@
+!<thin>
+//                                              80        `
+aw8697_haptic/aw8697.o/
+aw8697_haptic/ringbuffer.o/
+qpnp-power-on.o/
+uinput.o/
+
+/0              0           0     0     644     880288    `
+/24             0           0     0     644     45512     `
+/52             0           0     0     644     481576    `
+/69             0           0     0     644     299160    `

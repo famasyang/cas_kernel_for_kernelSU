@@ -1,0 +1,1 @@
+cmd_drivers/hwtracing/google/built-in.a :=  rm -f drivers/hwtracing/google/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/hwtracing/google/built-in.a drivers/hwtracing/google/coresight-clk-placeholder.o drivers/hwtracing/google/coresight-clk-amba-placeholder.o

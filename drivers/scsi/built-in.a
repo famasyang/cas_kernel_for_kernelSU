@@ -1,0 +1,53 @@
+!<thin>
+//                                              344       `
+scsi.o/
+hosts.o/
+scsi_ioctl.o/
+scsicam.o/
+scsi_error.o/
+scsi_lib.o/
+scsi_lib_dma.o/
+scsi_scan.o/
+scsi_sysfs.o/
+scsi_devinfo.o/
+scsi_sysctl.o/
+scsi_proc.o/
+scsi_trace.o/
+scsi_logging.o/
+scsi_pm.o/
+scsi_common.o/
+ufs/ufs-qcom.o/
+ufs/ufshcd.o/
+ufs/ufs-sysfs.o/
+ufs/ufshcd-crypto.o/
+ufs/ufshcd-crypto-qti.o/
+ufs/ufshcd-pltfrm.o/
+sd.o/
+sg.o/
+ch.o/
+
+/0              0           0     0     644     443072    `
+/8              0           0     0     644     279984    `
+/17             0           0     0     644     277024    `
+/31             0           0     0     644     198064    `
+/42             0           0     0     644     467992    `
+/56             0           0     0     644     666432    `
+/68             0           0     0     644     206680    `
+/84             0           0     0     644     380920    `
+/97             0           0     0     644     455456    `
+/111            0           0     0     644     281288    `
+/127            0           0     0     644     20416     `
+/142            0           0     0     644     248616    `
+/155            0           0     0     644     23792     `
+/169            0           0     0     644     248264    `
+/185            0           0     0     644     243176    `
+/196            0           0     0     644     29072     `
+/211            0           0     0     644     583864    `
+/227            0           0     0     644     1714056   `
+/241            0           0     0     644     859040    `
+/258            0           0     0     644     299008    `
+/279            0           0     0     644     276000    `
+/304            0           0     0     644     288680    `
+/325            0           0     0     644     496664    `
+/331            0           0     0     644     776136    `
+/337            0           0     0     644     353584    `

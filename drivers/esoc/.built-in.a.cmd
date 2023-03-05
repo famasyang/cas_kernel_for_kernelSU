@@ -1,0 +1,1 @@
+cmd_drivers/esoc/built-in.a :=  rm -f drivers/esoc/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/esoc/built-in.a drivers/esoc/esoc_bus.o drivers/esoc/esoc_dev.o drivers/esoc/esoc_client.o drivers/esoc/esoc-mdm-pon.o drivers/esoc/esoc-mdm-4x.o drivers/esoc/esoc-mdm-drv.o

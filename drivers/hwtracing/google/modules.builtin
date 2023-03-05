@@ -1,0 +1,2 @@
+kernel/drivers/hwtracing/google/coresight-clk-placeholder.ko
+kernel/drivers/hwtracing/google/coresight-clk-amba-placeholder.ko

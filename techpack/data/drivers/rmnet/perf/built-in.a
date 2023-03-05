@@ -1,0 +1,12 @@
+!<thin>
+//                                              102       `
+rmnet_perf_config.o/
+rmnet_perf_core.o/
+rmnet_perf_opt.o/
+rmnet_perf_tcp_opt.o/
+rmnet_perf_udp_opt.o/
+/0              0           0     0     644     294528    `
+/21             0           0     0     644     483560    `
+/40             0           0     0     644     404808    `
+/58             0           0     0     644     348072    `
+/80             0           0     0     644     337872    `

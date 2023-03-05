@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/built-in.a :=  rm -f drivers/video/fbdev/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/video/fbdev/built-in.a drivers/video/fbdev/core/built-in.a drivers/video/fbdev/amba-clcd.o drivers/video/fbdev/omap2/built-in.a

@@ -1,0 +1,39 @@
+!<thin>
+//                                              412       `
+power_supply_core.o/
+power_supply_sysfs.o/
+power_supply_leds.o/
+cas_qcom/max28200.o/
+cas_qcom/bq25790_charger.o/
+cas_qcom/step-chg-jeita.o/
+cas_qcom/battery.o/
+cas_qcom/qpnp-smb5.o/
+cas_qcom/smb5-lib.o/
+cas_qcom/pmic-voter.o/
+cas_qcom/storm-watch.o/
+cas_qcom/schgm-flash.o/
+cas_qcom/smb1398-charger.o/
+cas_qcom/bq27z561_fg.o/
+cas_qcom/max77932.o/
+cas_qcom/idtp9415.o/
+cas_qcom/rx1619_trim.o/
+cas_qcom/rx1619.o/
+
+/0              0           0     0     644     257304    `
+/21             0           0     0     644     167328    `
+/43             0           0     0     644     99984     `
+/64             0           0     0     644     278736    `
+/85             0           0     0     644     455768    `
+/113            0           0     0     644     210456    `
+/140            0           0     0     644     326552    `
+/160            0           0     0     644     560792    `
+/182            0           0     0     644     1215752   `
+/203            0           0     0     644     161096    `
+/226            0           0     0     644     12104     `
+/250            0           0     0     644     221120    `
+/274            0           0     0     644     425936    `
+/302            0           0     0     644     382024    `
+/326            0           0     0     644     130560    `
+/347            0           0     0     644     636856    `
+/368            0           0     0     644     168448    `
+/392            0           0     0     644     635696    `

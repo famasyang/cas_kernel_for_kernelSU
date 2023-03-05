@@ -1,0 +1,1 @@
+cmd_drivers/i2c/busses/built-in.a :=  rm -f drivers/i2c/busses/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/i2c/busses/built-in.a drivers/i2c/busses/i2c-qcom-geni.o

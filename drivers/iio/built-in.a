@@ -1,0 +1,24 @@
+!<thin>
+//                                              260       `
+industrialio-core.o/
+industrialio-event.o/
+inkern.o/
+industrialio-buffer.o/
+industrialio-trigger.o/
+adc/qcom-spmi-adc5.o/
+adc/qcom-vadc-common.o/
+buffer/industrialio-buffer-cb.o/
+buffer/industrialio-triggered-buffer.o/
+buffer/kfifo_buf.o/
+proximity/us_prox.o/
+/0              0           0     0     644     322264    `
+/21             0           0     0     644     209224    `
+/43             0           0     0     644     178344    `
+/53             0           0     0     644     282784    `
+/76             0           0     0     644     211032    `
+/100            0           0     0     644     206256    `
+/122            0           0     0     644     62936     `
+/146            0           0     0     644     88888     `
+/179            0           0     0     644     80384     `
+/219            0           0     0     644     179232    `
+/239            0           0     0     644     151176    `

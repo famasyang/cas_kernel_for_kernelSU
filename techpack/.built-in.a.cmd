@@ -1,0 +1,1 @@
+cmd_techpack/built-in.a :=  rm -f techpack/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD techpack/built-in.a techpack/stub/built-in.a techpack/audio/built-in.a techpack/data/built-in.a techpack/video/built-in.a techpack/display/built-in.a techpack/camera/built-in.a

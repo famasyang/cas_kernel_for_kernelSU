@@ -1,0 +1,1 @@
+cmd_lib/crypto/built-in.a :=  rm -f lib/crypto/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD lib/crypto/built-in.a lib/crypto/chacha.o lib/crypto/libchacha.o lib/crypto/blake2s.o lib/crypto/blake2s-generic.o lib/crypto/chacha20poly1305.o lib/crypto/curve25519-hacl64.o lib/crypto/curve25519-generic.o lib/crypto/curve25519.o

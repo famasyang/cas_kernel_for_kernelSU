@@ -1,0 +1,88 @@
+!<thin>
+//                                              1242      `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+event_notify.o/
+ff-memless.o/
+input-leds.o/
+evdev.o/
+keyboard/atkbd.o/
+keyboard/gpio_keys.o/
+joystick/xpad.o/
+tablet/acecad.o/
+tablet/aiptek.o/
+tablet/gtco.o/
+tablet/hanwang.o/
+tablet/kbtab.o/
+touchscreen/of_touchscreen.o/
+touchscreen/synaptics_tcm/synaptics_tcm_i2c.o/
+touchscreen/synaptics_tcm/synaptics_tcm_core.o/
+touchscreen/synaptics_tcm/synaptics_tcm_touch.o/
+touchscreen/synaptics_tcm/synaptics_tcm_device.o/
+touchscreen/synaptics_tcm/synaptics_tcm_diagnostics.o/
+touchscreen/fts_521/fts.o/
+touchscreen/fts_521/fts_proc.o/
+touchscreen/fts_521/fts_lib/ftsCompensation.o/
+touchscreen/fts_521/fts_lib/ftsCore.o/
+touchscreen/fts_521/fts_lib/ftsError.o/
+touchscreen/fts_521/fts_lib/ftsFrame.o/
+touchscreen/fts_521/fts_lib/ftsIO.o/
+touchscreen/fts_521/fts_lib/ftsTest.o/
+touchscreen/fts_521/fts_lib/ftsTime.o/
+touchscreen/fts_521/fts_lib/ftsTool.o/
+touchscreen/fts_521/fts_lib/ftsFlash.o/
+touchscreen/fts_521/fts_lib/ftsGesture.o/
+touchscreen/xiaomi/xiaomi_touch.o/
+touchscreen/tp_common.o/
+misc/aw8697_haptic/aw8697.o/
+misc/aw8697_haptic/ringbuffer.o/
+misc/qpnp-power-on.o/
+misc/uinput.o/
+fingerprint/goodix_fod/gf_spi.o/
+fingerprint/goodix_fod/platform.o/
+fingerprint/goodix_fod/netlink.o/
+/0              0           0     0     644     509264    `
+/9              0           0     0     644     127464    `
+/25             0           0     0     644     168952    `
+/37             0           0     0     644     172488    `
+/48             0           0     0     644     13952     `
+/64             0           0     0     644     190384    `
+/78             0           0     0     644     154096    `
+/92             0           0     0     644     440064    `
+/101            0           0     0     644     329480    `
+/119            0           0     0     644     258352    `
+/141            0           0     0     644     305824    `
+/158            0           0     0     644     178960    `
+/175            0           0     0     644     295560    `
+/192            0           0     0     644     193760    `
+/207            0           0     0     644     187184    `
+/225            0           0     0     644     177048    `
+/241            0           0     0     644     154056    `
+/271            0           0     0     644     209288    `
+/318            0           0     0     644     510200    `
+/366            0           0     0     644     222992    `
+/415            0           0     0     644     223080    `
+/465            0           0     0     644     202696    `
+/520            0           0     0     644     721400    `
+/547            0           0     0     644     268704    `
+/579            0           0     0     644     62256     `
+/626            0           0     0     644     278072    `
+/665            0           0     0     644     178568    `
+/705            0           0     0     644     36488     `
+/745            0           0     0     644     201176    `
+/782            0           0     0     644     484176    `
+/821            0           0     0     644     9600      `
+/860            0           0     0     644     54768     `
+/899            0           0     0     644     217520    `
+/939            0           0     0     644     34096     `
+/981            0           0     0     644     217192    `
+/1016           0           0     0     644     31968     `
+/1041           0           0     0     644     880288    `
+/1070           0           0     0     644     45512     `
+/1103           0           0     0     644     481576    `
+/1125           0           0     0     644     299160    `
+/1140           0           0     0     644     241040    `
+/1173           0           0     0     644     152896    `
+/1208           0           0     0     644     324768    `

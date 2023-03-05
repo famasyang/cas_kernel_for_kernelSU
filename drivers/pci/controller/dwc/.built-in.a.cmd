@@ -1,0 +1,1 @@
+cmd_drivers/pci/controller/dwc/built-in.a :=  rm -f drivers/pci/controller/dwc/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/pci/controller/dwc/built-in.a drivers/pci/controller/dwc/pcie-hisi.o

@@ -1,0 +1,1 @@
+cmd_drivers/input/serio/built-in.a :=  rm -f drivers/input/serio/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/input/serio/built-in.a drivers/input/serio/serio.o drivers/input/serio/libps2.o

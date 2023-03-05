@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/built-in.a :=  rm -f drivers/input/misc/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/input/misc/built-in.a drivers/input/misc/aw8697_haptic/built-in.a drivers/input/misc/qpnp-power-on.o drivers/input/misc/uinput.o

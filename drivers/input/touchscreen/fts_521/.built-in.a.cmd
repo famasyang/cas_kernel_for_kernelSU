@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/fts_521/built-in.a :=  rm -f drivers/input/touchscreen/fts_521/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/input/touchscreen/fts_521/built-in.a drivers/input/touchscreen/fts_521/fts.o drivers/input/touchscreen/fts_521/fts_proc.o drivers/input/touchscreen/fts_521/fts_lib/built-in.a

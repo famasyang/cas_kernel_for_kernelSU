@@ -1,0 +1,1 @@
+cmd_drivers/pwm/built-in.a :=  rm -f drivers/pwm/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/pwm/built-in.a drivers/pwm/core.o drivers/pwm/sysfs.o drivers/pwm/pwm-qti-lpg.o

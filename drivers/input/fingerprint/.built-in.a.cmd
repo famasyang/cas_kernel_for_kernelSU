@@ -1,0 +1,1 @@
+cmd_drivers/input/fingerprint/built-in.a :=  rm -f drivers/input/fingerprint/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/input/fingerprint/built-in.a drivers/input/fingerprint/goodix_fod/built-in.a

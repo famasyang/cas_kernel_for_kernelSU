@@ -1,0 +1,1 @@
+cmd_drivers/scsi/ufs/built-in.a :=  rm -f drivers/scsi/ufs/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/scsi/ufs/built-in.a drivers/scsi/ufs/ufs-qcom.o drivers/scsi/ufs/ufshcd.o drivers/scsi/ufs/ufs-sysfs.o drivers/scsi/ufs/ufshcd-crypto.o drivers/scsi/ufs/ufshcd-crypto-qti.o drivers/scsi/ufs/ufshcd-pltfrm.o

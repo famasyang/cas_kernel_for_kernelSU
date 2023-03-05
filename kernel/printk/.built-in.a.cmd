@@ -1,0 +1,1 @@
+cmd_kernel/printk/built-in.a :=  rm -f kernel/printk/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD kernel/printk/built-in.a kernel/printk/printk.o kernel/printk/printk_safe.o

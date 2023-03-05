@@ -1,0 +1,1 @@
+cmd_kernel/dma/built-in.a :=  rm -f kernel/dma/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD kernel/dma/built-in.a kernel/dma/mapping.o kernel/dma/contiguous.o kernel/dma/coherent.o kernel/dma/removed.o kernel/dma/direct.o kernel/dma/swiotlb.o

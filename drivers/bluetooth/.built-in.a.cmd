@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/built-in.a :=  rm -f drivers/bluetooth/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/bluetooth/built-in.a drivers/bluetooth/bluetooth-power.o drivers/bluetooth/btfm_slim.o drivers/bluetooth/btfm_slim_codec.o drivers/bluetooth/btfm_slim_slave.o

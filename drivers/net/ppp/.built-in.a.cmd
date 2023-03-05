@@ -1,0 +1,1 @@
+cmd_drivers/net/ppp/built-in.a :=  rm -f drivers/net/ppp/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/net/ppp/built-in.a drivers/net/ppp/ppp_generic.o drivers/net/ppp/bsd_comp.o drivers/net/ppp/ppp_deflate.o drivers/net/ppp/ppp_mppe.o drivers/net/ppp/pppox.o drivers/net/ppp/pptp.o

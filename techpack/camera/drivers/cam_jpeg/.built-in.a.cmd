@@ -1,0 +1,1 @@
+cmd_techpack/camera/drivers/cam_jpeg/built-in.a :=  rm -f techpack/camera/drivers/cam_jpeg/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD techpack/camera/drivers/cam_jpeg/built-in.a techpack/camera/drivers/cam_jpeg/jpeg_hw/built-in.a techpack/camera/drivers/cam_jpeg/cam_jpeg_dev.o techpack/camera/drivers/cam_jpeg/cam_jpeg_context.o

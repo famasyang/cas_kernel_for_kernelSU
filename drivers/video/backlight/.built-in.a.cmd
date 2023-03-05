@@ -1,0 +1,1 @@
+cmd_drivers/video/backlight/built-in.a :=  rm -f drivers/video/backlight/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/video/backlight/built-in.a drivers/video/backlight/backlight.o drivers/video/backlight/qcom-spmi-wled.o

@@ -1,0 +1,1 @@
+cmd_techpack/camera/drivers/cam_smmu/built-in.a :=  rm -f techpack/camera/drivers/cam_smmu/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD techpack/camera/drivers/cam_smmu/built-in.a techpack/camera/drivers/cam_smmu/cam_smmu_api.o

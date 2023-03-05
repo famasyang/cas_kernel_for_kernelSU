@@ -1,0 +1,981 @@
+!<thin>
+//                                              26464     `
+android/ion/ion.o/
+android/ion/ion-ioctl.o/
+android/ion/ion_heap.o/
+android/ion/ion_page_pool.o/
+android/ion/ion_system_heap.o/
+android/ion/ion_carveout_heap.o/
+android/ion/ion_chunk_heap.o/
+android/ion/ion_system_secure_heap.o/
+android/ion/ion_cma_heap.o/
+android/ion/ion_camera_heap.o/
+android/ion/ion_secure_util.o/
+android/ion/ion_cma_secure_heap.o/
+android/ion/msm/msm_ion_of.o/
+android/ashmem.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_assoc.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_cfg.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_cfg80211.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_data_stall_detection.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_driver_ops.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_ftm.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_hostapd.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_ioctl.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_main.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_object_manager.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_oemdata.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_p2p.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_power.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_regulatory.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_scan.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_softap_tx_rx.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_sta_info.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_stats.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_trace.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_tx_rx.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_wmm.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_wowl.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_wext.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_hostapd_wext.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_spectralscan.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_fips.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_green_ap.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_apf.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_lpass.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_napi.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_nan.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_nan_datapath.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_tdls.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_tsf.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_disa.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_subnet_detect.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_he.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_twt.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_rx_monitor.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_packet_filter.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_rssi_monitor.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_bss_transition.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_station_info.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_tx_power.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_ota_test.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_active_tos.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_sar_limits.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_concurrency_matrix.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_sap_cond_chan_switch.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_p2p_listen_offload.o/
+qcacld-3.0/core/hdd/src/wlan_hdd_sysfs.o/
+qcacld-3.0/os_if/sync/src/osif_sync.o/
+qcacld-3.0/os_if/sync/src/osif_driver_sync.o/
+qcacld-3.0/os_if/sync/src/osif_psoc_sync.o/
+qcacld-3.0/os_if/sync/src/osif_vdev_sync.o/
+qcacld-3.0/components/dsc/src/__wlan_dsc.o/
+qcacld-3.0/components/dsc/src/wlan_dsc_driver.o/
+qcacld-3.0/components/dsc/src/wlan_dsc_psoc.o/
+qcacld-3.0/components/dsc/src/wlan_dsc_vdev.o/
+qcacld-3.0/core/mac/src/dph/dph_hash_table.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_aid_mgmt.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_admit_control.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_api.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_assoc_utils.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_ft.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_link_monitoring_algo.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_action_frame.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_assoc_req_frame.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_assoc_rsp_frame.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_auth_frame.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_beacon_frame.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_cfg_updates.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_deauth_frame.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_disassoc_frame.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_message_queue.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_mlm_req_messages.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_mlm_rsp_messages.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_probe_req_frame.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_probe_rsp_frame.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_sme_req_messages.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_prop_exts_utils.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_scan_result_utils.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_security_utils.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_send_management_frames.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_send_messages.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_send_sme_rsp_messages.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_session.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_session_utils.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_sme_req_utils.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_timer_utils.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_trace.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_utils.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_ibss_peer_mgmt.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_tdls.o/
+qcacld-3.0/core/mac/src/pe/lim/lim_process_fils.o/
+qcacld-3.0/core/mac/src/pe/sch/sch_api.o/
+qcacld-3.0/core/mac/src/pe/sch/sch_beacon_gen.o/
+qcacld-3.0/core/mac/src/pe/sch/sch_beacon_process.o/
+qcacld-3.0/core/mac/src/pe/sch/sch_message.o/
+qcacld-3.0/core/mac/src/pe/rrm/rrm_api.o/
+qcacld-3.0/core/mac/src/pe/nan/nan_datapath.o/
+qcacld-3.0/core/sap/src/sap_api_link_cntl.o/
+qcacld-3.0/core/sap/src/sap_ch_select.o/
+qcacld-3.0/core/sap/src/sap_fsm.o/
+qcacld-3.0/core/sap/src/sap_module.o/
+qcacld-3.0/core/sme/src/common/sme_api.o/
+qcacld-3.0/core/sme/src/common/sme_ft_api.o/
+qcacld-3.0/core/sme/src/common/sme_power_save.o/
+qcacld-3.0/core/sme/src/common/sme_trace.o/
+qcacld-3.0/core/sme/src/csr/csr_api_roam.o/
+qcacld-3.0/core/sme/src/csr/csr_api_scan.o/
+qcacld-3.0/core/sme/src/csr/csr_cmd_process.o/
+qcacld-3.0/core/sme/src/csr/csr_link_list.o/
+qcacld-3.0/core/sme/src/csr/csr_neighbor_roam.o/
+qcacld-3.0/core/sme/src/csr/csr_util.o/
+qcacld-3.0/core/sme/src/qos/sme_qos.o/
+qcacld-3.0/core/sme/src/rrm/sme_rrm.o/
+qcacld-3.0/core/sme/src/nan/nan_datapath_api.o/
+qcacld-3.0/core/mac/src/sys/common/src/wlan_qct_sys.o/
+qcacld-3.0/core/mac/src/sys/legacy/src/platform/src/sys_wrapper.o/
+qcacld-3.0/core/mac/src/sys/legacy/src/system/src/mac_init_api.o/
+qcacld-3.0/core/mac/src/sys/legacy/src/system/src/sys_entry_func.o/
+qcacld-3.0/core/mac/src/sys/legacy/src/utils/src/dot11f.o/
+qcacld-3.0/core/mac/src/sys/legacy/src/utils/src/mac_trace.o/
+qcacld-3.0/core/mac/src/sys/legacy/src/utils/src/parser_api.o/
+qcacld-3.0/core/mac/src/sys/legacy/src/utils/src/utils_parser.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_crypto.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_defer.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_delayed_work.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_event.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_file.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_func_tracker.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_idr.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_list.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_lock.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_mc_timer.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_mem.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_nbuf.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_periodic_work.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_status.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_threads.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_trace.o/
+qca-wifi-host-cmn/qdf/src/qdf_flex_mem.o/
+qca-wifi-host-cmn/qdf/src/qdf_parse.o/
+qca-wifi-host-cmn/qdf/src/qdf_platform.o/
+qca-wifi-host-cmn/qdf/src/qdf_str.o/
+qca-wifi-host-cmn/qdf/src/qdf_talloc.o/
+qca-wifi-host-cmn/qdf/src/qdf_types.o/
+qca-wifi-host-cmn/qdf/src/qdf_cpuhp.o/
+qca-wifi-host-cmn/qdf/linux/src/qdf_cpuhp.o/
+qca-wifi-host-cmn/wbuff/src/wbuff.o/
+qcacld-3.0/core/cds/src/cds_api.o/
+qcacld-3.0/core/cds/src/cds_reg_service.o/
+qcacld-3.0/core/cds/src/cds_packet.o/
+qcacld-3.0/core/cds/src/cds_regdomain.o/
+qcacld-3.0/core/cds/src/cds_sched.o/
+qcacld-3.0/core/cds/src/cds_utils.o/
+qca-wifi-host-cmn/cfg/src/cfg.o/
+qca-wifi-host-cmn/ftm/dispatcher/src/wlan_ftm_init_deinit.o/
+qca-wifi-host-cmn/ftm/dispatcher/src/wlan_ftm_ucfg_api.o/
+qca-wifi-host-cmn/ftm/core/src/wlan_ftm_svc.o/
+qca-wifi-host-cmn/target_if/ftm/src/target_if_ftm.o/
+qca-wifi-host-cmn/os_if/linux/ftm/src/wlan_ioctl_ftm.o/
+qcacld-3.0/core/wma/src/wma_main.o/
+qcacld-3.0/core/wma/src/wma_scan_roam.o/
+qcacld-3.0/core/wma/src/wma_dev_if.o/
+qcacld-3.0/core/wma/src/wma_mgmt.o/
+qcacld-3.0/core/wma/src/wma_power.o/
+qcacld-3.0/core/wma/src/wma_data.o/
+qcacld-3.0/core/wma/src/wma_utils.o/
+qcacld-3.0/core/wma/src/wma_features.o/
+qcacld-3.0/core/wma/src/wlan_qct_wma_legacy.o/
+qcacld-3.0/core/wma/src/wma_nan_datapath.o/
+qcacld-3.0/core/wma/src/wma_fips_api.o/
+qcacld-3.0/core/wma/src/wma_he.o/
+qcacld-3.0/core/wma/src/wma_twt.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified.o/
+qca-wifi-host-cmn/wmi/src/wmi_tlv_helper.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_tlv.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_api.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_reg_api.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_vdev_api.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_vdev_tlv.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_crypto_api.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_pmo_api.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_pmo_tlv.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_apf_tlv.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_action_oui_tlv.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_dfs_api.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_twt_api.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_twt_tlv.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_nan_api.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_nan_tlv.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_p2p_api.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_p2p_tlv.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_roam_api.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_roam_tlv.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_concurrency_api.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_concurrency_tlv.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_sta_api.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_sta_tlv.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_bcn_api.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_bcn_tlv.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_fwol_api.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_fwol_tlv.o/
+qca-wifi-host-cmn/htc/htc.o/
+qca-wifi-host-cmn/htc/htc_send.o/
+qca-wifi-host-cmn/htc/htc_recv.o/
+qca-wifi-host-cmn/htc/htc_services.o/
+qca-wifi-host-cmn/htc/htc_credit_history.o/
+qca-wifi-host-cmn/init_deinit/dispatcher/src/dispatcher_init_deinit.o/
+qca-wifi-host-cmn/scheduler/src/scheduler_api.o/
+qca-wifi-host-cmn/scheduler/src/scheduler_core.o/
+qca-wifi-host-cmn/umac/regulatory/core/src/reg_build_chan_list.o/
+qca-wifi-host-cmn/umac/regulatory/core/src/reg_callbacks.o/
+qca-wifi-host-cmn/umac/regulatory/core/src/reg_db.o/
+qca-wifi-host-cmn/umac/regulatory/core/src/reg_db_parser.o/
+qca-wifi-host-cmn/umac/regulatory/core/src/reg_utils.o/
+qca-wifi-host-cmn/umac/regulatory/core/src/reg_lte.o/
+qca-wifi-host-cmn/umac/regulatory/core/src/reg_offload_11d_scan.o/
+qca-wifi-host-cmn/umac/regulatory/core/src/reg_opclass.o/
+qca-wifi-host-cmn/umac/regulatory/core/src/reg_priv_objs.o/
+qca-wifi-host-cmn/umac/regulatory/dispatcher/src/wlan_reg_services_api.o/
+qca-wifi-host-cmn/umac/regulatory/core/src/reg_services_common.o/
+qca-wifi-host-cmn/umac/regulatory/dispatcher/src/wlan_reg_tgt_api.o/
+qca-wifi-host-cmn/umac/regulatory/dispatcher/src/wlan_reg_ucfg_api.o/
+qca-wifi-host-cmn/hif/src/hif_napi.o/
+qca-wifi-host-cmn/hif/src/hif_unit_test_suspend.o/
+qca-wifi-host-cmn/hif/src/dispatcher/multibus.o/
+qca-wifi-host-cmn/hif/src/dispatcher/dummy.o/
+qca-wifi-host-cmn/hif/src/ath_procfs.o/
+qca-wifi-host-cmn/hif/src/hif_main.o/
+qca-wifi-host-cmn/hif/src/hif_exec.o/
+qca-wifi-host-cmn/hif/src/hif_irq_affinity.o/
+qca-wifi-host-cmn/hif/src/pcie/if_pci.o/
+qca-wifi-host-cmn/hif/src/ce/ce_diag.o/
+qca-wifi-host-cmn/hif/src/ce/ce_main.o/
+qca-wifi-host-cmn/hif/src/ce/ce_service.o/
+qca-wifi-host-cmn/hif/src/ce/ce_tasklet.o/
+qca-wifi-host-cmn/hif/src/mp_dev.o/
+qca-wifi-host-cmn/hif/src/regtable.o/
+qca-wifi-host-cmn/hif/src/qca6390def.o/
+qca-wifi-host-cmn/hif/src/ce/ce_service_srng.o/
+qca-wifi-host-cmn/hif/src/dispatcher/multibus_pci.o/
+qca-wifi-host-cmn/os_if/linux/wlan_osif_request_manager.o/
+qca-wifi-host-cmn/os_if/linux/crypto/src/wlan_nl_to_crypto_params.o/
+qca-wifi-host-cmn/os_if/linux/crypto/src/wlan_cfg80211_crypto.o/
+qca-wifi-host-cmn/target_if/core/src/target_if_main.o/
+qca-wifi-host-cmn/target_if/regulatory/src/target_if_reg.o/
+qca-wifi-host-cmn/target_if/regulatory/src/target_if_reg_lte.o/
+qca-wifi-host-cmn/target_if/regulatory/src/target_if_reg_11d.o/
+qca-wifi-host-cmn/target_if/init_deinit/src/init_cmd_api.o/
+qca-wifi-host-cmn/target_if/init_deinit/src/init_deinit_lmac.o/
+qca-wifi-host-cmn/target_if/init_deinit/src/init_event_handler.o/
+qca-wifi-host-cmn/target_if/init_deinit/src/service_ready_util.o/
+qca-wifi-host-cmn/target_if/mlme/vdev_mgr/src/target_if_vdev_mgr_tx_ops.o/
+qca-wifi-host-cmn/target_if/mlme/vdev_mgr/src/target_if_vdev_mgr_rx_ops.o/
+qca-wifi-host-cmn/target_if/mlme/psoc/src/target_if_psoc_timer_tx_ops.o/
+qca-wifi-host-cmn/target_if/crypto/src/target_if_crypto.o/
+qcacld-3.0/components/target_if/pmo/src/target_if_pmo_arp.o/
+qcacld-3.0/components/target_if/pmo/src/target_if_pmo_gtk.o/
+qcacld-3.0/components/target_if/pmo/src/target_if_pmo_hw_filter.o/
+qcacld-3.0/components/target_if/pmo/src/target_if_pmo_lphb.o/
+qcacld-3.0/components/target_if/pmo/src/target_if_pmo_main.o/
+qcacld-3.0/components/target_if/pmo/src/target_if_pmo_mc_addr_filtering.o/
+qcacld-3.0/components/target_if/pmo/src/target_if_pmo_static_config.o/
+qcacld-3.0/components/target_if/pmo/src/target_if_pmo_suspend_resume.o/
+qcacld-3.0/components/target_if/pmo/src/target_if_pmo_wow.o/
+qcacld-3.0/components/target_if/pmo/src/target_if_pmo_ns.o/
+qcacld-3.0/components/target_if/pmo/src/target_if_pmo_pkt_filter.o/
+qcacld-3.0/components/target_if/disa/src/target_if_disa.o/
+qcacld-3.0/components/target_if/blacklist_mgr/src/target_if_blm.o/
+qcacld-3.0/components/target_if/action_oui/src/target_if_action_oui.o/
+qca-wifi-host-cmn/global_lmac_if/src/wlan_global_lmac_if.o/
+qca-wifi-host-cmn/hal/wifi3.0/hal_srng.o/
+qca-wifi-host-cmn/hal/wifi3.0/hal_reo.o/
+qca-wifi-host-cmn/hal/wifi3.0/qca6390/hal_6390.o/
+qca-wifi-host-cmn/umac/dfs/core/src/misc/dfs.o/
+qca-wifi-host-cmn/umac/dfs/core/src/misc/dfs_cac.o/
+qca-wifi-host-cmn/umac/dfs/core/src/misc/dfs_nol.o/
+qca-wifi-host-cmn/umac/dfs/core/src/misc/dfs_random_chan_sel.o/
+qca-wifi-host-cmn/umac/dfs/core/src/misc/dfs_process_radar_found_ind.o/
+qca-wifi-host-cmn/umac/dfs/dispatcher/src/wlan_dfs_init_deinit_api.o/
+qca-wifi-host-cmn/umac/dfs/dispatcher/src/wlan_dfs_lmac_api.o/
+qca-wifi-host-cmn/umac/dfs/dispatcher/src/wlan_dfs_mlme_api.o/
+qca-wifi-host-cmn/umac/dfs/dispatcher/src/wlan_dfs_tgt_api.o/
+qca-wifi-host-cmn/umac/dfs/dispatcher/src/wlan_dfs_ucfg_api.o/
+qca-wifi-host-cmn/umac/dfs/dispatcher/src/wlan_dfs_utils_api.o/
+qca-wifi-host-cmn/target_if/dfs/src/target_if_dfs.o/
+qca-wifi-host-cmn/target_if/dfs/src/target_if_dfs_full_offload.o/
+qca-wifi-host-cmn/umac/dfs/core/src/misc/dfs_full_offload.o/
+qca-wifi-host-cmn/umac/cmn_services/obj_mgr/src/wlan_objmgr_global_obj.o/
+qca-wifi-host-cmn/umac/cmn_services/obj_mgr/src/wlan_objmgr_pdev_obj.o/
+qca-wifi-host-cmn/umac/cmn_services/obj_mgr/src/wlan_objmgr_peer_obj.o/
+qca-wifi-host-cmn/umac/cmn_services/obj_mgr/src/wlan_objmgr_psoc_obj.o/
+qca-wifi-host-cmn/umac/cmn_services/obj_mgr/src/wlan_objmgr_vdev_obj.o/
+qca-wifi-host-cmn/umac/wifi_pos/src/wifi_pos_api.o/
+qca-wifi-host-cmn/umac/wifi_pos/src/wifi_pos_main.o/
+qca-wifi-host-cmn/umac/wifi_pos/src/wifi_pos_ucfg.o/
+qca-wifi-host-cmn/umac/wifi_pos/src/wifi_pos_utils.o/
+qca-wifi-host-cmn/os_if/linux/wifi_pos/src/os_if_wifi_pos.o/
+qca-wifi-host-cmn/target_if/wifi_pos/src/target_if_wifi_pos.o/
+qca-wifi-host-cmn/target_if/cp_stats/src/target_if_mc_cp_stats.o/
+qca-wifi-host-cmn/umac/cp_stats/core/src/wlan_cp_stats_comp_handler.o/
+qca-wifi-host-cmn/umac/cp_stats/core/src/wlan_cp_stats_obj_mgr_handler.o/
+qca-wifi-host-cmn/umac/cp_stats/core/src/wlan_cp_stats_ol_api.o/
+qca-wifi-host-cmn/os_if/linux/cp_stats/src/wlan_cfg80211_mc_cp_stats.o/
+qca-wifi-host-cmn/umac/cp_stats/dispatcher/src/wlan_cp_stats_utils_api.o/
+qca-wifi-host-cmn/umac/cp_stats/dispatcher/src/wlan_cp_stats_mc_tgt_api.o/
+qca-wifi-host-cmn/umac/cp_stats/dispatcher/src/wlan_cp_stats_mc_ucfg_api.o/
+qcacld-3.0/components/nan/core/src/nan_main.o/
+qcacld-3.0/components/nan/core/src/nan_api.o/
+qcacld-3.0/components/nan/dispatcher/src/nan_ucfg_api.o/
+qcacld-3.0/components/nan/dispatcher/src/cfg_nan.o/
+qcacld-3.0/components/target_if/nan/src/target_if_nan.o/
+qcacld-3.0/os_if/nan/src/os_if_nan.o/
+qca-wifi-host-cmn/umac/cmn_services/mgmt_txrx/core/src/wlan_mgmt_txrx_main.o/
+qca-wifi-host-cmn/umac/cmn_services/mgmt_txrx/dispatcher/src/wlan_mgmt_txrx_utils_api.o/
+qca-wifi-host-cmn/umac/cmn_services/mgmt_txrx/dispatcher/src/wlan_mgmt_txrx_tgt_api.o/
+qcacld-3.0/components/tdls/core/src/wlan_tdls_main.o/
+qcacld-3.0/components/tdls/core/src/wlan_tdls_cmds_process.o/
+qcacld-3.0/components/tdls/core/src/wlan_tdls_peer.o/
+qcacld-3.0/components/tdls/core/src/wlan_tdls_mgmt.o/
+qcacld-3.0/components/tdls/core/src/wlan_tdls_ct.o/
+qcacld-3.0/components/tdls/dispatcher/src/wlan_tdls_tgt_api.o/
+qcacld-3.0/components/tdls/dispatcher/src/wlan_tdls_ucfg_api.o/
+qcacld-3.0/components/tdls/dispatcher/src/wlan_tdls_utils_api.o/
+qcacld-3.0/components/tdls/dispatcher/src/wlan_tdls_cfg.o/
+qcacld-3.0/os_if/tdls/src/wlan_cfg80211_tdls.o/
+qcacld-3.0/components/target_if/tdls/src/target_if_tdls.o/
+qcacld-3.0/components/pmo/core/src/wlan_pmo_main.o/
+qcacld-3.0/components/pmo/core/src/wlan_pmo_apf.o/
+qcacld-3.0/components/pmo/core/src/wlan_pmo_arp.o/
+qcacld-3.0/components/pmo/core/src/wlan_pmo_gtk.o/
+qcacld-3.0/components/pmo/core/src/wlan_pmo_mc_addr_filtering.o/
+qcacld-3.0/components/pmo/core/src/wlan_pmo_static_config.o/
+qcacld-3.0/components/pmo/core/src/wlan_pmo_wow.o/
+qcacld-3.0/components/pmo/core/src/wlan_pmo_lphb.o/
+qcacld-3.0/components/pmo/core/src/wlan_pmo_suspend_resume.o/
+qcacld-3.0/components/pmo/core/src/wlan_pmo_hw_filter.o/
+qcacld-3.0/components/pmo/dispatcher/src/wlan_pmo_obj_mgmt_api.o/
+qcacld-3.0/components/pmo/dispatcher/src/wlan_pmo_ucfg_api.o/
+qcacld-3.0/components/pmo/dispatcher/src/wlan_pmo_tgt_arp.o/
+qcacld-3.0/components/pmo/dispatcher/src/wlan_pmo_tgt_gtk.o/
+qcacld-3.0/components/pmo/dispatcher/src/wlan_pmo_tgt_wow.o/
+qcacld-3.0/components/pmo/dispatcher/src/wlan_pmo_tgt_static_config.o/
+qcacld-3.0/components/pmo/dispatcher/src/wlan_pmo_tgt_mc_addr_filtering.o/
+qcacld-3.0/components/pmo/dispatcher/src/wlan_pmo_tgt_lphb.o/
+qcacld-3.0/components/pmo/dispatcher/src/wlan_pmo_tgt_suspend_resume.o/
+qcacld-3.0/components/pmo/dispatcher/src/wlan_pmo_tgt_hw_filter.o/
+qcacld-3.0/components/pmo/core/src/wlan_pmo_pkt_filter.o/
+qcacld-3.0/components/pmo/dispatcher/src/wlan_pmo_tgt_pkt_filter.o/
+qcacld-3.0/components/pmo/core/src/wlan_pmo_ns.o/
+qcacld-3.0/components/pmo/dispatcher/src/wlan_pmo_tgt_ns.o/
+qcacld-3.0/components/p2p/dispatcher/src/wlan_p2p_ucfg_api.o/
+qcacld-3.0/components/p2p/dispatcher/src/wlan_p2p_tgt_api.o/
+qcacld-3.0/components/p2p/dispatcher/src/wlan_p2p_cfg.o/
+qcacld-3.0/components/p2p/dispatcher/src/wlan_p2p_api.o/
+qcacld-3.0/components/p2p/core/src/wlan_p2p_main.o/
+qcacld-3.0/components/p2p/core/src/wlan_p2p_roc.o/
+qcacld-3.0/components/p2p/core/src/wlan_p2p_off_chan_tx.o/
+qcacld-3.0/os_if/p2p/src/wlan_cfg80211_p2p.o/
+qcacld-3.0/components/target_if/p2p/src/target_if_p2p.o/
+qcacld-3.0/components/cmn_services/policy_mgr/src/wlan_policy_mgr_action.o/
+qcacld-3.0/components/cmn_services/policy_mgr/src/wlan_policy_mgr_core.o/
+qcacld-3.0/components/cmn_services/policy_mgr/src/wlan_policy_mgr_get_set_utils.o/
+qcacld-3.0/components/cmn_services/policy_mgr/src/wlan_policy_mgr_init_deinit.o/
+qcacld-3.0/components/cmn_services/policy_mgr/src/wlan_policy_mgr_ucfg.o/
+qcacld-3.0/components/cmn_services/policy_mgr/src/wlan_policy_mgr_pcl.o/
+qca-wifi-host-cmn/utils/nlink/src/wlan_nlink_srv.o/
+qca-wifi-host-cmn/utils/ptt/src/wlan_ptt_sock_svc.o/
+qca-wifi-host-cmn/umac/cmn_services/serialization/src/wlan_serialization_main.o/
+qca-wifi-host-cmn/umac/cmn_services/serialization/src/wlan_serialization_api.o/
+qca-wifi-host-cmn/umac/cmn_services/serialization/src/wlan_serialization_utils.o/
+qca-wifi-host-cmn/umac/cmn_services/serialization/src/wlan_serialization_legacy_api.o/
+qca-wifi-host-cmn/umac/cmn_services/serialization/src/wlan_serialization_rules.o/
+qca-wifi-host-cmn/umac/cmn_services/serialization/src/wlan_serialization_internal.o/
+qca-wifi-host-cmn/umac/cmn_services/serialization/src/wlan_serialization_non_scan.o/
+qca-wifi-host-cmn/umac/cmn_services/serialization/src/wlan_serialization_queue.o/
+qca-wifi-host-cmn/umac/cmn_services/serialization/src/wlan_serialization_scan.o/
+qcacld-3.0/core/pld/src/pld_common.o/
+qcacld-3.0/core/pld/src/pld_pcie.o/
+qca-wifi-host-cmn/umac/cmn_services/sm_engine/src/wlan_sm_engine.o/
+qca-wifi-host-cmn/umac/mlme/mlme_objmgr/dispatcher/src/wlan_vdev_mlme_main.o/
+qca-wifi-host-cmn/umac/mlme/vdev_mgr/core/src/vdev_mlme_sm.o/
+qca-wifi-host-cmn/umac/mlme/vdev_mgr/dispatcher/src/wlan_vdev_mlme_api.o/
+qca-wifi-host-cmn/umac/mlme/vdev_mgr/core/src/vdev_mgr_ops.o/
+qca-wifi-host-cmn/umac/mlme/vdev_mgr/dispatcher/src/wlan_vdev_mgr_tgt_if_rx_api.o/
+qca-wifi-host-cmn/umac/mlme/vdev_mgr/dispatcher/src/wlan_vdev_mgr_tgt_if_tx_api.o/
+qca-wifi-host-cmn/umac/mlme/vdev_mgr/dispatcher/src/wlan_vdev_mgr_ucfg_api.o/
+qca-wifi-host-cmn/umac/mlme/vdev_mgr/dispatcher/src/wlan_vdev_mgr_utils_api.o/
+qca-wifi-host-cmn/umac/mlme/mlme_objmgr/dispatcher/src/wlan_cmn_mlme_main.o/
+qca-wifi-host-cmn/umac/mlme/mlme_objmgr/dispatcher/src/wlan_pdev_mlme_main.o/
+qca-wifi-host-cmn/umac/mlme/pdev_mgr/dispatcher/src/wlan_pdev_mlme_api.o/
+qca-wifi-host-cmn/umac/mlme/mlme_objmgr/dispatcher/src/wlan_psoc_mlme_main.o/
+qca-wifi-host-cmn/umac/mlme/psoc_mgr/dispatcher/src/wlan_psoc_mlme_api.o/
+qcacld-3.0/components/mlme/core/src/wlan_mlme_main.o/
+qcacld-3.0/components/mlme/dispatcher/src/wlan_mlme_api.o/
+qcacld-3.0/components/mlme/dispatcher/src/wlan_mlme_ucfg_api.o/
+qcacld-3.0/components/mlme/core/src/wlan_mlme_vdev_mgr_interface.o/
+qcacld-3.0/components/fw_offload/core/src/wlan_fw_offload_main.o/
+qcacld-3.0/components/fw_offload/dispatcher/src/wlan_fwol_ucfg_api.o/
+qcacld-3.0/components/fw_offload/dispatcher/src/wlan_fwol_tgt_api.o/
+qcacld-3.0/components/target_if/fw_offload/src/target_if_fwol.o/
+qcacld-3.0/os_if/fw_offload/src/os_if_fwol.o/
+qcacld-3.0/components/blacklist_mgr/core/src/wlan_blm_main.o/
+qcacld-3.0/components/blacklist_mgr/core/src/wlan_blm_core.o/
+qcacld-3.0/components/blacklist_mgr/dispatcher/src/wlan_blm_ucfg_api.o/
+qcacld-3.0/components/blacklist_mgr/dispatcher/src/wlan_blm_tgt_api.o/
+qcacld-3.0/components/disa/core/src/wlan_disa_main.o/
+qcacld-3.0/components/disa/dispatcher/src/wlan_disa_obj_mgmt_api.o/
+qcacld-3.0/components/disa/dispatcher/src/wlan_disa_tgt_api.o/
+qcacld-3.0/components/disa/dispatcher/src/wlan_disa_ucfg_api.o/
+qcacld-3.0/components/action_oui/core/src/wlan_action_oui_main.o/
+qcacld-3.0/components/action_oui/core/src/wlan_action_oui_parse.o/
+qcacld-3.0/components/action_oui/dispatcher/src/wlan_action_oui_tgt_api.o/
+qcacld-3.0/components/action_oui/dispatcher/src/wlan_action_oui_ucfg_api.o/
+qca-wifi-host-cmn/umac/global_umac_dispatcher/lmac_if/src/wlan_lmac_if.o/
+qca-wifi-host-cmn/umac/scan/core/src/wlan_scan_cache_db.o/
+qca-wifi-host-cmn/umac/scan/core/src/wlan_scan_11d.o/
+qca-wifi-host-cmn/umac/scan/core/src/wlan_scan_bss_score.o/
+qca-wifi-host-cmn/umac/scan/core/src/wlan_scan_filter.o/
+qca-wifi-host-cmn/umac/scan/core/src/wlan_scan_main.o/
+qca-wifi-host-cmn/umac/scan/core/src/wlan_scan_manager.o/
+qca-wifi-host-cmn/umac/scan/dispatcher/src/wlan_scan_tgt_api.o/
+qca-wifi-host-cmn/umac/scan/dispatcher/src/wlan_scan_ucfg_api.o/
+qca-wifi-host-cmn/umac/scan/dispatcher/src/wlan_scan_api.o/
+qca-wifi-host-cmn/umac/scan/dispatcher/src/wlan_scan_utils_api.o/
+qca-wifi-host-cmn/os_if/linux/scan/src/wlan_cfg80211_scan.o/
+qca-wifi-host-cmn/os_if/linux/wlan_cfg80211.o/
+qca-wifi-host-cmn/target_if/scan/src/target_if_scan.o/
+qca-wifi-host-cmn/umac/cmn_services/utils/src/wlan_utility.o/
+qca-wifi-host-cmn/wlan_cfg/wlan_cfg.o/
+qca-wifi-host-cmn/spectral/core/spectral_offload.o/
+qca-wifi-host-cmn/spectral/core/spectral_common.o/
+qca-wifi-host-cmn/spectral/dispatcher/src/wlan_spectral_ucfg_api.o/
+qca-wifi-host-cmn/spectral/dispatcher/src/wlan_spectral_utils_api.o/
+qca-wifi-host-cmn/spectral/dispatcher/src/wlan_spectral_tgt_api.o/
+qca-wifi-host-cmn/os_if/linux/spectral/src/wlan_cfg80211_spectral.o/
+qca-wifi-host-cmn/os_if/linux/spectral/src/os_if_spectral_netlink.o/
+qca-wifi-host-cmn/target_if/spectral/target_if_spectral_netlink.o/
+qca-wifi-host-cmn/target_if/spectral/target_if_spectral_phyerr.o/
+qca-wifi-host-cmn/target_if/spectral/target_if_spectral.o/
+qca-wifi-host-cmn/target_if/spectral/target_if_spectral_sim.o/
+qca-wifi-host-cmn/target_if/direct_buf_rx/src/target_if_direct_buf_rx_api.o/
+qca-wifi-host-cmn/target_if/direct_buf_rx/src/target_if_direct_buf_rx_main.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_dbr_api.o/
+qca-wifi-host-cmn/wmi/src/wmi_unified_dbr_tlv.o/
+qca-wifi-host-cmn/umac/green_ap/core/src/wlan_green_ap_main.o/
+qca-wifi-host-cmn/umac/green_ap/dispatcher/src/wlan_green_ap_api.o/
+qca-wifi-host-cmn/umac/green_ap/dispatcher/src/wlan_green_ap_ucfg_api.o/
+qca-wifi-host-cmn/target_if/green_ap/src/target_if_green_ap.o/
+qca-wifi-host-cmn/umac/cmn_services/crypto/src/wlan_crypto_global_api.o/
+qca-wifi-host-cmn/umac/cmn_services/crypto/src/wlan_crypto_ucfg_api.o/
+qca-wifi-host-cmn/umac/cmn_services/crypto/src/wlan_crypto_main.o/
+qca-wifi-host-cmn/umac/cmn_services/crypto/src/wlan_crypto_obj_mgr.o/
+qca-wifi-host-cmn/umac/cmn_services/crypto/src/wlan_crypto_param_handling.o/
+qca-wifi-host-cmn/dp/wifi3.0/dp_main.o/
+qca-wifi-host-cmn/dp/wifi3.0/dp_tx.o/
+qca-wifi-host-cmn/dp/wifi3.0/dp_tx_desc.o/
+qca-wifi-host-cmn/dp/wifi3.0/dp_rx.o/
+qca-wifi-host-cmn/dp/wifi3.0/dp_rx_err.o/
+qca-wifi-host-cmn/dp/wifi3.0/dp_htt.o/
+qca-wifi-host-cmn/dp/wifi3.0/dp_peer.o/
+qca-wifi-host-cmn/dp/wifi3.0/dp_rx_desc.o/
+qca-wifi-host-cmn/dp/wifi3.0/dp_reo.o/
+qca-wifi-host-cmn/dp/wifi3.0/dp_rx_mon_dest.o/
+qca-wifi-host-cmn/dp/wifi3.0/dp_rx_mon_status.o/
+qca-wifi-host-cmn/dp/wifi3.0/dp_rx_defrag.o/
+qca-wifi-host-cmn/dp/wifi3.0/dp_mon_filter.o/
+qca-wifi-host-cmn/dp/wifi3.0/dp_stats.o/
+qca-wifi-host-cmn/target_if/dp/src/target_if_dp.o/
+qca-wifi-host-cmn/dp/wifi3.0/dp_tx_flow_control.o/
+qcacld-3.0/core/dp/txrx3.0/dp_txrx.o/
+qcacld-3.0/core/dp/txrx3.0/dp_rx_thread.o/
+
+/0              0           0     0     644     502080    `
+/19             0           0     0     644     144488    `
+/44             0           0     0     644     216880    `
+/68             0           0     0     644     233848    `
+/97             0           0     0     644     240040    `
+/128            0           0     0     644     173816    `
+/161            0           0     0     644     150328    `
+/191            0           0     0     644     256088    `
+/229            0           0     0     644     170896    `
+/257            0           0     0     644     235512    `
+/288            0           0     0     644     169568    `
+/319            0           0     0     644     274544    `
+/354            0           0     0     644     162368    `
+/384            0           0     0     644     225944    `
+/402            0           0     0     644     1201320   `
+/444            0           0     0     644     724872    `
+/484            0           0     0     644     2359800   `
+/529            0           0     0     644     559992    `
+/586            0           0     0     644     914008    `
+/633            0           0     0     644     657856    `
+/673            0           0     0     644     1572952   `
+/717            0           0     0     644     1344768   `
+/759            0           0     0     644     3028248   `
+/800            0           0     0     644     906744    `
+/851            0           0     0     644     2872      `
+/895            0           0     0     644     783448    `
+/935            0           0     0     644     1209232   `
+/977            0           0     0     644     756032    `
+/1024           0           0     0     644     782848    `
+/1065           0           0     0     644     767328    `
+/1114           0           0     0     644     745448    `
+/1159           0           0     0     644     1405848   `
+/1201           0           0     0     644     2872      `
+/1243           0           0     0     644     1029280   `
+/1285           0           0     0     644     867760    `
+/1325           0           0     0     644     721048    `
+/1366           0           0     0     644     1118992   `
+/1407           0           0     0     644     1289744   `
+/1456           0           0     0     644     696184    `
+/1505           0           0     0     644     655720    `
+/1546           0           0     0     644     644864    `
+/1591           0           0     0     644     777632    `
+/1631           0           0     0     644     681920    `
+/1673           0           0     0     644     737256    `
+/1714           0           0     0     644     643128    `
+/1754           0           0     0     644     816440    `
+/1803           0           0     0     644     707680    `
+/1844           0           0     0     644     774432    `
+/1884           0           0     0     644     751912    `
+/1925           0           0     0     644     712432    `
+/1975           0           0     0     644     895328    `
+/2014           0           0     0     644     658712    `
+/2054           0           0     0     644     641320    `
+/2101           0           0     0     644     718536    `
+/2151           0           0     0     644     677728    `
+/2200           0           0     0     644     685440    `
+/2251           0           0     0     644     833720    `
+/2300           0           0     0     644     714464    `
+/2345           0           0     0     644     712672    `
+/2390           0           0     0     644     713568    `
+/2437           0           0     0     644     680432    `
+/2484           0           0     0     644     736368    `
+/2539           0           0     0     644     666032    `
+/2596           0           0     0     644     718792    `
+/2651           0           0     0     644     726648    `
+/2693           0           0     0     644     6616      `
+/2732           0           0     0     644     376432    `
+/2778           0           0     0     644     389760    `
+/2822           0           0     0     644     372264    `
+/2866           0           0     0     644     37088     `
+/2910           0           0     0     644     413536    `
+/2959           0           0     0     644     379224    `
+/3006           0           0     0     644     366000    `
+/3053           0           0     0     644     745368    `
+/3099           0           0     0     644     730152    `
+/3146           0           0     0     644     785464    `
+/3198           0           0     0     644     1057920   `
+/3240           0           0     0     644     946400    `
+/3290           0           0     0     644     817768    `
+/3331           0           0     0     644     852072    `
+/3390           0           0     0     644     1025600   `
+/3449           0           0     0     644     847472    `
+/3511           0           0     0     644     816664    `
+/3573           0           0     0     644     791928    `
+/3630           0           0     0     644     745984    `
+/3689           0           0     0     644     741416    `
+/3747           0           0     0     644     769096    `
+/3806           0           0     0     644     766784    `
+/3867           0           0     0     644     959744    `
+/3927           0           0     0     644     947384    `
+/3990           0           0     0     644     892280    `
+/4053           0           0     0     644     766192    `
+/4115           0           0     0     644     750384    `
+/4177           0           0     0     644     1117016   `
+/4240           0           0     0     644     791784    `
+/4294           0           0     0     644     746112    `
+/4350           0           0     0     644     778496    `
+/4403           0           0     0     644     1142032   `
+/4464           0           0     0     644     888688    `
+/4516           0           0     0     644     864960    `
+/4576           0           0     0     644     836480    `
+/4622           0           0     0     644     729904    `
+/4674           0           0     0     644     757608    `
+/4726           0           0     0     644     761648    `
+/4776           0           0     0     644     4224      `
+/4820           0           0     0     644     1539736   `
+/4864           0           0     0     644     823584    `
+/4917           0           0     0     644     945728    `
+/4968           0           0     0     644     862768    `
+/5019           0           0     0     644     755376    `
+/5061           0           0     0     644     845928    `
+/5110           0           0     0     644     792512    `
+/5163           0           0     0     644     757712    `
+/5209           0           0     0     644     834352    `
+/5251           0           0     0     644     777752    `
+/5298           0           0     0     644     791120    `
+/5343           0           0     0     644     875848    `
+/5384           0           0     0     644     923792    `
+/5419           0           0     0     644     983920    `
+/5457           0           0     0     644     1824360   `
+/5499           0           0     0     644     754384    `
+/5544           0           0     0     644     795944    `
+/5593           0           0     0     644     724648    `
+/5637           0           0     0     644     1936632   `
+/5681           0           0     0     644     942376    `
+/5725           0           0     0     644     745592    `
+/5772           0           0     0     644     55224     `
+/5817           0           0     0     644     807992    `
+/5866           0           0     0     644     1022168   `
+/5906           0           0     0     644     1054040   `
+/5945           0           0     0     644     876344    `
+/5984           0           0     0     644     746096    `
+/6032           0           0     0     644     810048    `
+/6087           0           0     0     644     31576     `
+/6154           0           0     0     644     801120    `
+/6220           0           0     0     644     739576    `
+/6288           0           0     0     644     2139920   `
+/6347           0           0     0     644     42152     `
+/6409           0           0     0     644     1055240   `
+/6472           0           0     0     644     786704    `
+/6537           0           0     0     644     395704    `
+/6583           0           0     0     644     351696    `
+/6628           0           0     0     644     20944     `
+/6680           0           0     0     644     400984    `
+/6725           0           0     0     644     358000    `
+/6769           0           0     0     644     3848      `
+/6821           0           0     0     644     272792    `
+/6864           0           0     0     644     385832    `
+/6908           0           0     0     644     455312    `
+/6952           0           0     0     644     437936    `
+/7000           0           0     0     644     482696    `
+/7043           0           0     0     644     589240    `
+/7087           0           0     0     644     23528     `
+/7140           0           0     0     644     18424     `
+/7186           0           0     0     644     402872    `
+/7233           0           0     0     644     411176    `
+/7278           0           0     0     644     397408    `
+/7320           0           0     0     644     358000    `
+/7359           0           0     0     644     399112    `
+/7401           0           0     0     644     357904    `
+/7438           0           0     0     644     2888      `
+/7478           0           0     0     644     410344    `
+/7517           0           0     0     644     368272    `
+/7556           0           0     0     644     363712    `
+/7601           0           0     0     644     415344    `
+/7638           0           0     0     644     1563312   `
+/7673           0           0     0     644     441680    `
+/7716           0           0     0     644     386488    `
+/7754           0           0     0     644     999296    `
+/7795           0           0     0     644     787632    `
+/7832           0           0     0     644     388048    `
+/7869           0           0     0     644     1019056   `
+/7902           0           0     0     644     429264    `
+/7963           0           0     0     644     431608    `
+/8021           0           0     0     644     433240    `
+/8068           0           0     0     644     675032    `
+/8121           0           0     0     644     495168    `
+/8177           0           0     0     644     1781368   `
+/8213           0           0     0     644     1470576   `
+/8254           0           0     0     644     1452152   `
+/8292           0           0     0     644     1450088   `
+/8328           0           0     0     644     1108304   `
+/8365           0           0     0     644     1167648   `
+/8401           0           0     0     644     1590728   `
+/8438           0           0     0     644     1594344   `
+/8478           0           0     0     644     739848    `
+/8525           0           0     0     644     852672    `
+/8569           0           0     0     644     974720    `
+/8609           0           0     0     644     1121488   `
+/8643           0           0     0     644     1047480   `
+/8678           0           0     0     644     937000    `
+/8719           0           0     0     644     1574256   `
+/8763           0           0     0     644     1481136   `
+/8808           0           0     0     644     961200    `
+/8853           0           0     0     644     716504    `
+/8902           0           0     0     644     646464    `
+/8952           0           0     0     644     800776    `
+/9002           0           0     0     644     636488    `
+/9054           0           0     0     644     664640    `
+/9103           0           0     0     644     865688    `
+/9152           0           0     0     644     482400    `
+/9201           0           0     0     644     482744    `
+/9257           0           0     0     644     711424    `
+/9306           0           0     0     644     646952    `
+/9355           0           0     0     644     797048    `
+/9404           0           0     0     644     650768    `
+/9453           0           0     0     644     865144    `
+/9502           0           0     0     644     650232    `
+/9551           0           0     0     644     791720    `
+/9600           0           0     0     644     662272    `
+/9650           0           0     0     644     887760    `
+/9700           0           0     0     644     638856    `
+/9757           0           0     0     644     779560    `
+/9814           0           0     0     644     668976    `
+/9863           0           0     0     644     893272    `
+/9912           0           0     0     644     635896    `
+/9961           0           0     0     644     770920    `
+/10010          0           0     0     644     4272      `
+/10060          0           0     0     644     635936    `
+/10110          0           0     0     644     500640    `
+/10139          0           0     0     644     676216    `
+/10173          0           0     0     644     471376    `
+/10207          0           0     0     644     434896    `
+/10245          0           0     0     644     438424    `
+/10289          0           0     0     644     516600    `
+/10360          0           0     0     644     423600    `
+/10409          0           0     0     644     418280    `
+/10459          0           0     0     644     502352    `
+/10525          0           0     0     644     498296    `
+/10585          0           0     0     644     389248    `
+/10638          0           0     0     644     449248    `
+/10698          0           0     0     644     517208    `
+/10754          0           0     0     644     454224    `
+/10808          0           0     0     644     4304      `
+/10875          0           0     0     644     432080    `
+/10933          0           0     0     644     473000    `
+/10993          0           0     0     644     605464    `
+/11067          0           0     0     644     894640    `
+/11133          0           0     0     644     427496    `
+/11202          0           0     0     644     511776    `
+/11272          0           0     0     644     551664    `
+/11310          0           0     0     644     364024    `
+/11361          0           0     0     644     485504    `
+/11410          0           0     0     644     37280     `
+/11456          0           0     0     644     2888      `
+/11496          0           0     0     644     636736    `
+/11534          0           0     0     644     490584    `
+/11572          0           0     0     644     392336    `
+/11618          0           0     0     644     923096    `
+/11659          0           0     0     644     485904    `
+/11699          0           0     0     644     717568    `
+/11739          0           0     0     644     654992    `
+/11782          0           0     0     644     510424    `
+/11825          0           0     0     644     479048    `
+/11861          0           0     0     644     456984    `
+/11899          0           0     0     644     32672     `
+/11939          0           0     0     644     643952    `
+/11987          0           0     0     644     391128    `
+/12040          0           0     0     644     426872    `
+/12099          0           0     0     644     415384    `
+/12168          0           0     0     644     477112    `
+/12233          0           0     0     644     809056    `
+/12288          0           0     0     644     700024    `
+/12348          0           0     0     644     667152    `
+/12412          0           0     0     644     4296      `
+/12476          0           0     0     644     679376    `
+/12536          0           0     0     644     743952    `
+/12600          0           0     0     644     799152    `
+/12666          0           0     0     644     762384    `
+/12732          0           0     0     644     842448    `
+/12807          0           0     0     644     714656    `
+/12882          0           0     0     644     450240    `
+/12955          0           0     0     644     774352    `
+/13014          0           0     0     644     649816    `
+/13075          0           0     0     644     656152    `
+/13136          0           0     0     644     648544    `
+/13203          0           0     0     644     663128    `
+/13265          0           0     0     644     661616    `
+/13327          0           0     0     644     672048    `
+/13402          0           0     0     644     654408    `
+/13473          0           0     0     644     693432    `
+/13545          0           0     0     644     657848    `
+/13606          0           0     0     644     649808    `
+/13666          0           0     0     644     653008    `
+/13734          0           0     0     644     669496    `
+/13793          0           0     0     644     649416    `
+/13860          0           0     0     644     649192    `
+/13931          0           0     0     644     474808    `
+/13991          0           0     0     644     599328    `
+/14033          0           0     0     644     709864    `
+/14074          0           0     0     644     801064    `
+/14124          0           0     0     644     558224    `
+/14172          0           0     0     644     492904    `
+/14224          0           0     0     644     577880    `
+/14276          0           0     0     644     503760    `
+/14340          0           0     0     644     513040    `
+/14412          0           0     0     644     520000    `
+/14482          0           0     0     644     435992    `
+/14545          0           0     0     644     513928    `
+/14608          0           0     0     644     599672    `
+/14670          0           0     0     644     516584    `
+/14733          0           0     0     644     691488    `
+/14797          0           0     0     644     703624    `
+/14850          0           0     0     644     683824    `
+/14916          0           0     0     644     452664    `
+/14977          0           0     0     644     842184    `
+/15051          0           0     0     644     691880    `
+/15123          0           0     0     644     691792    `
+/15195          0           0     0     644     1131216   `
+/15267          0           0     0     644     763416    `
+/15339          0           0     0     644     552376    `
+/15391          0           0     0     644     549544    `
+/15444          0           0     0     644     399272    `
+/15497          0           0     0     644     506392    `
+/15551          0           0     0     644     515672    `
+/15612          0           0     0     644     687064    `
+/15675          0           0     0     644     801208    `
+/15741          0           0     0     644     480320    `
+/15812          0           0     0     644     467224    `
+/15886          0           0     0     644     668464    `
+/15951          0           0     0     644     536136    `
+/16023          0           0     0     644     462928    `
+/16097          0           0     0     644     811816    `
+/16172          0           0     0     644     654312    `
+/16248          0           0     0     644     777864    `
+/16295          0           0     0     644     685552    `
+/16341          0           0     0     644     774576    `
+/16398          0           0     0     644     457496    `
+/16450          0           0     0     644     755552    `
+/16507          0           0     0     644     718200    `
+/16545          0           0     0     644     387272    `
+/16623          0           0     0     644     515512    `
+/16712          0           0     0     644     519424    `
+/16799          0           0     0     644     615856    `
+/16853          0           0     0     644     618032    `
+/16915          0           0     0     644     533328    `
+/16969          0           0     0     644     522544    `
+/17023          0           0     0     644     546888    `
+/17075          0           0     0     644     484072    `
+/17138          0           0     0     644     599904    `
+/17202          0           0     0     644     2920      `
+/17267          0           0     0     644     475224    `
+/17326          0           0     0     644     528368    `
+/17374          0           0     0     644     674856    `
+/17433          0           0     0     644     683480    `
+/17485          0           0     0     644     466904    `
+/17536          0           0     0     644     541640    `
+/17587          0           0     0     644     531056    `
+/17638          0           0     0     644     661856    `
+/17703          0           0     0     644     622752    `
+/17764          0           0     0     644     692464    `
+/17815          0           0     0     644     494128    `
+/17867          0           0     0     644     1051896   `
+/17929          0           0     0     644     492008    `
+/17986          0           0     0     644     867752    `
+/18052          0           0     0     644     637968    `
+/18114          0           0     0     644     507096    `
+/18175          0           0     0     644     496112    `
+/18236          0           0     0     644     520320    `
+/18297          0           0     0     644     512824    `
+/18368          0           0     0     644     468760    `
+/18443          0           0     0     644     466176    `
+/18505          0           0     0     644     480560    `
+/18577          0           0     0     644     459152    `
+/18644          0           0     0     644     481496    `
+/18702          0           0     0     644     466960    `
+/18770          0           0     0     644     556880    `
+/18820          0           0     0     644     507104    `
+/18880          0           0     0     644     494280    `
+/18942          0           0     0     644     478640    `
+/19003          0           0     0     644     448160    `
+/19060          0           0     0     644     6624      `
+/19117          0           0     0     644     581840    `
+/19169          0           0     0     644     507152    `
+/19220          0           0     0     644     663704    `
+/19279          0           0     0     644     525104    `
+/19325          0           0     0     644     700464    `
+/19382          0           0     0     644     651424    `
+/19458          0           0     0     644     663232    `
+/19532          0           0     0     644     967912    `
+/19615          0           0     0     644     590424    `
+/19696          0           0     0     644     544520    `
+/19770          0           0     0     644     633240    `
+/19843          0           0     0     644     381944    `
+/19895          0           0     0     644     376096    `
+/19948          0           0     0     644     477784    `
+/20029          0           0     0     644     501688    `
+/20109          0           0     0     644     541680    `
+/20191          0           0     0     644     460928    `
+/20278          0           0     0     644     6648      `
+/20360          0           0     0     644     508760    `
+/20445          0           0     0     644     479264    `
+/20530          0           0     0     644     454048    `
+/20612          0           0     0     644     475792    `
+/20693          0           0     0     644     456488    `
+/20731          0           0     0     644     294368    `
+/20767          0           0     0     644     376256    `
+/20835          0           0     0     644     469208    `
+/20913          0           0     0     644     567984    `
+/20975          0           0     0     644     507360    `
+/21049          0           0     0     644     753664    `
+/21111          0           0     0     644     494848    `
+/21194          0           0     0     644     578032    `
+/21277          0           0     0     644     507800    `
+/21355          0           0     0     644     511104    `
+/21434          0           0     0     644     497656    `
+/21511          0           0     0     644     452632    `
+/21589          0           0     0     644     482560    `
+/21663          0           0     0     644     480080    `
+/21741          0           0     0     644     470360    `
+/21815          0           0     0     644     729376    `
+/21869          0           0     0     644     1304160   `
+/21928          0           0     0     644     686800    `
+/21992          0           0     0     644     670960    `
+/22060          0           0     0     644     967448    `
+/22126          0           0     0     644     570592    `
+/22196          0           0     0     644     658024    `
+/22265          0           0     0     644     643008    `
+/22330          0           0     0     644     4224      `
+/22376          0           0     0     644     523280    `
+/22438          0           0     0     644     527752    `
+/22500          0           0     0     644     457104    `
+/22572          0           0     0     644     433560    `
+/22643          0           0     0     644     491824    `
+/22697          0           0     0     644     449048    `
+/22765          0           0     0     644     458424    `
+/22828          0           0     0     644     429528    `
+/22892          0           0     0     644     662136    `
+/22958          0           0     0     644     682280    `
+/23025          0           0     0     644     434504    `
+/23100          0           0     0     644     662680    `
+/23176          0           0     0     644     506920    `
+/23250          0           0     0     644     675760    `
+/23309          0           0     0     644     473712    `
+/23363          0           0     0     644     502976    `
+/23423          0           0     0     644     517064    `
+/23480          0           0     0     644     464576    `
+/23535          0           0     0     644     598376    `
+/23593          0           0     0     644     489256    `
+/23657          0           0     0     644     750560    `
+/23722          0           0     0     644     498472    `
+/23782          0           0     0     644     533088    `
+/23848          0           0     0     644     718616    `
+/23909          0           0     0     644     4264      `
+/23956          0           0     0     644     687544    `
+/24011          0           0     0     644     609056    `
+/24073          0           0     0     644     691792    `
+/24112          0           0     0     644     441016    `
+/24164          0           0     0     644     566264    `
+/24215          0           0     0     644     508512    `
+/24283          0           0     0     644     590976    `
+/24352          0           0     0     644     468176    `
+/24419          0           0     0     644     462296    `
+/24488          0           0     0     644     524240    `
+/24557          0           0     0     644     464208    `
+/24624          0           0     0     644     833656    `
+/24690          0           0     0     644     1016112   `
+/24749          0           0     0     644     2952      `
+/24812          0           0     0     644     484160    `
+/24889          0           0     0     644     852264    `
+/24967          0           0     0     644     639536    `
+/25016          0           0     0     644     789160    `
+/25065          0           0     0     644     512096    `
+/25128          0           0     0     644     612040    `
+/25196          0           0     0     644     493600    `
+/25269          0           0     0     644     690736    `
+/25332          0           0     0     644     824568    `
+/25405          0           0     0     644     427744    `
+/25476          0           0     0     644     9440      `
+/25543          0           0     0     644     478632    `
+/25613          0           0     0     644     23768     `
+/25690          0           0     0     644     1767408   `
+/25730          0           0     0     644     1205136   `
+/25768          0           0     0     644     637992    `
+/25811          0           0     0     644     996784    `
+/25849          0           0     0     644     984120    `
+/25891          0           0     0     644     887736    `
+/25930          0           0     0     644     1035792   `
+/25970          0           0     0     644     662352    `
+/26013          0           0     0     644     703800    `
+/26052          0           0     0     644     781424    `
+/26099          0           0     0     644     656480    `
+/26148          0           0     0     644     906536    `
+/26193          0           0     0     644     685184    `
+/26239          0           0     0     644     907888    `
+/26280          0           0     0     644     669328    `
+/26331          0           0     0     644     693888    `
+/26382          0           0     0     644     608232    `
+/26420          0           0     0     644     609064    `

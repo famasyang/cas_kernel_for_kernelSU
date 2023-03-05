@@ -1,0 +1,1 @@
+cmd_drivers/usb/phy/built-in.a :=  rm -f drivers/usb/phy/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/usb/phy/built-in.a drivers/usb/phy/phy.o drivers/usb/phy/of.o drivers/usb/phy/phy-generic.o drivers/usb/phy/phy-qcom-emu.o drivers/usb/phy/phy-msm-ssusb-qmp.o drivers/usb/phy/phy-msm-snps-hs.o

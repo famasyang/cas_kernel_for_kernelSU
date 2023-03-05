@@ -1,0 +1,1 @@
+cmd_drivers/leds/trigger/built-in.a :=  rm -f drivers/leds/trigger/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/leds/trigger/built-in.a drivers/leds/trigger/ledtrig-timer.o

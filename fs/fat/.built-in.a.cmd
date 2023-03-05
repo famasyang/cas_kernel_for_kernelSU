@@ -1,0 +1,1 @@
+cmd_fs/fat/built-in.a :=  rm -f fs/fat/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD fs/fat/built-in.a fs/fat/cache.o fs/fat/dir.o fs/fat/fatent.o fs/fat/file.o fs/fat/inode.o fs/fat/misc.o fs/fat/nfs.o fs/fat/namei_vfat.o fs/fat/namei_msdos.o

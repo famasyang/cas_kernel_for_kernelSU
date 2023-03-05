@@ -1,0 +1,1 @@
+cmd_firmware/built-in.a :=  rm -f firmware/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD firmware/built-in.a firmware/st_fts_j1.ftb.gen.o firmware/st_fts_j2.ftb.gen.o firmware/st_fts_j2_1.ftb.gen.o firmware/st_fts_j2_2.ftb.gen.o firmware/st_fts_j1s.ftb.gen.o firmware/st_fts_j2s.ftb.gen.o

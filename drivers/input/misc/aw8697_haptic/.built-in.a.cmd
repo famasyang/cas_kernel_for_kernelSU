@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/aw8697_haptic/built-in.a :=  rm -f drivers/input/misc/aw8697_haptic/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/input/misc/aw8697_haptic/built-in.a drivers/input/misc/aw8697_haptic/aw8697.o drivers/input/misc/aw8697_haptic/ringbuffer.o

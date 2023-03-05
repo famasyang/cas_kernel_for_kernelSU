@@ -1,0 +1,1 @@
+cmd_lib/lz4/built-in.a :=  rm -f lib/lz4/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD lib/lz4/built-in.a lib/lz4/lz4_compress.o lib/lz4/lz4_decompress.o lib/lz4/lz4armv8/lz4accel.o lib/lz4/lz4armv8/lz4armv8.o

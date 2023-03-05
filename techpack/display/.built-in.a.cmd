@@ -1,0 +1,1 @@
+cmd_techpack/display/built-in.a :=  rm -f techpack/display/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD techpack/display/built-in.a techpack/display/msm/built-in.a techpack/display/rotator/built-in.a techpack/display/pll/built-in.a

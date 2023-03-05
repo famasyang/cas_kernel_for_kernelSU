@@ -1,0 +1,19 @@
+!<thin>
+//                                              254       `
+cavium/common/cavium_ptp.o/
+qualcomm/rmnet/rmnet_config.o/
+qualcomm/rmnet/rmnet_vnd.o/
+qualcomm/rmnet/rmnet_handlers.o/
+qualcomm/rmnet/rmnet_map_data.o/
+qualcomm/rmnet/rmnet_map_command.o/
+qualcomm/rmnet/rmnet_descriptor.o/
+qualcomm/rmnet/rmnet_genl.o/
+
+/0              0           0     0     644     206288    `
+/28             0           0     0     644     442944    `
+/59             0           0     0     644     310112    `
+/87             0           0     0     644     529104    `
+/120            0           0     0     644     513872    `
+/153            0           0     0     644     316632    `
+/189            0           0     0     644     497664    `
+/224            0           0     0     644     362720    `

@@ -1,0 +1,1 @@
+cmd_drivers/hid/usbhid/built-in.a :=  rm -f drivers/hid/usbhid/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/hid/usbhid/built-in.a drivers/hid/usbhid/hid-core.o drivers/hid/usbhid/hiddev.o

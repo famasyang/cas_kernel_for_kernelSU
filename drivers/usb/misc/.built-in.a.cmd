@@ -1,0 +1,1 @@
+cmd_drivers/usb/misc/built-in.a :=  rm -f drivers/usb/misc/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/usb/misc/built-in.a drivers/usb/misc/ehset.o drivers/usb/misc/lvstest.o drivers/usb/misc/ssusb-redriver-nb7vpq904m.o

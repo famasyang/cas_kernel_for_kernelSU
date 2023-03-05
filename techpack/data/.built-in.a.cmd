@@ -1,0 +1,1 @@
+cmd_techpack/data/built-in.a :=  rm -f techpack/data/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD techpack/data/built-in.a techpack/data/drivers/rmnet/perf/built-in.a techpack/data/drivers/rmnet/shs/built-in.a

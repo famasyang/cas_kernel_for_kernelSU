@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/built-in.a :=  rm -f drivers/media/rc/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/media/rc/built-in.a drivers/media/rc/keymaps/built-in.a drivers/media/rc/rc-main.o drivers/media/rc/rc-ir-raw.o drivers/media/rc/lirc_dev.o drivers/media/rc/ir-spi.o

@@ -1,0 +1,1 @@
+cmd_drivers/spmi/built-in.a :=  rm -f drivers/spmi/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/spmi/built-in.a drivers/spmi/spmi.o drivers/spmi/spmi-pmic-arb.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/built-in.a :=  rm -f drivers/media/dvb-frontends/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/media/dvb-frontends/built-in.a 

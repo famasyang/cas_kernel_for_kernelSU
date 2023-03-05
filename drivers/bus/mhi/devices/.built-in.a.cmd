@@ -1,0 +1,1 @@
+cmd_drivers/bus/mhi/devices/built-in.a :=  rm -f drivers/bus/mhi/devices/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/bus/mhi/devices/built-in.a drivers/bus/mhi/devices/mhi_netdev.o drivers/bus/mhi/devices/mhi_uci.o drivers/bus/mhi/devices/mhi_satellite.o

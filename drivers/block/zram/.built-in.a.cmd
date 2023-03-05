@@ -1,0 +1,1 @@
+cmd_drivers/block/zram/built-in.a :=  rm -f drivers/block/zram/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/block/zram/built-in.a drivers/block/zram/zcomp.o drivers/block/zram/zram_drv.o drivers/block/zram/zram_dedup.o

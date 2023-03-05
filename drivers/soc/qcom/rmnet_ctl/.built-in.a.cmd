@@ -1,0 +1,1 @@
+cmd_drivers/soc/qcom/rmnet_ctl/built-in.a :=  rm -f drivers/soc/qcom/rmnet_ctl/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD drivers/soc/qcom/rmnet_ctl/built-in.a drivers/soc/qcom/rmnet_ctl/rmnet_ctl_client.o drivers/soc/qcom/rmnet_ctl/rmnet_ctl_mhi.o

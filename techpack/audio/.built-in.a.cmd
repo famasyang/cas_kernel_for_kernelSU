@@ -1,0 +1,1 @@
+cmd_techpack/audio/built-in.a :=  rm -f techpack/audio/built-in.a; /home/lan/Desktop/gcc/gcc-arm64-gcc-master/bin/aarch64-elf-ar rcSTPD techpack/audio/built-in.a techpack/audio/soc/built-in.a techpack/audio/dsp/built-in.a techpack/audio/ipc/built-in.a techpack/audio/asoc/built-in.a
